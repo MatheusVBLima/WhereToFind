@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhereToFind/static/css/main.ad15a104.css",
+    "main.js": "/WhereToFind/static/js/main.fe7dc6f8.js",
+    "index.html": "/WhereToFind/index.html",
+    "main.ad15a104.css.map": "/WhereToFind/static/css/main.ad15a104.css.map",
+    "main.fe7dc6f8.js.map": "/WhereToFind/static/js/main.fe7dc6f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad15a104.css",
+    "static/js/main.fe7dc6f8.js"
+  ]
+}
